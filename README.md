@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django REST framework, MySQL, python**
+- 🌱 I’m currently learning **MERN Fullstack**
 
-- 💬 Ask me about **Django framework, MySQL**
+- 💬 Ask me about **HTML5, CSS, Bootstrap**
 
 - 📫 How to reach me **gurramsandhya1205@gmail.com**
 
