@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandhya G</h1>
-<h3 align="center">A passionate backend web developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif">
 
 
