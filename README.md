@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyagurram&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyagurram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhyagurram" alt="sandhyagurram" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
